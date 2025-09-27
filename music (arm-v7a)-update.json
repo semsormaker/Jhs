@@ -1,6 +1,6 @@
 {
-  "version": "v8.10.52 (patches 5.40.0)",
-  "versionCode": 13,
-  "zipUrl": "https://github.com/semsormaker/Jhs/releases/download/13/music-revanced-magisk-v8.10.52-arm-v7a.zip",
+  "version": "v8.10.52 (patches 5.41.0)",
+  "versionCode": 14,
+  "zipUrl": "https://github.com/semsormaker/Jhs/releases/download/14/music-revanced-magisk-v8.10.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/semsormaker/Jhs/update/build.md"
 }
