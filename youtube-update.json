@@ -1,6 +1,6 @@
 {
-  "version": "v20.14.43 (patches 5.43.1)",
-  "versionCode": 17,
-  "zipUrl": "https://github.com/semsormaker/Jhs/releases/download/17/youtube-revanced-magisk-v20.14.43-all.zip",
+  "version": "v20.14.43 (patches 5.44.0)",
+  "versionCode": 18,
+  "zipUrl": "https://github.com/semsormaker/Jhs/releases/download/18/youtube-revanced-magisk-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/semsormaker/Jhs/update/build.md"
 }
